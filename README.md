@@ -1,7 +1,9 @@
-
 Gachon Univ. dept. of SW
+
 [21-2] Machine Learining
+
 ML_PHW1
+
 201735821 김정규
 
 Description :
